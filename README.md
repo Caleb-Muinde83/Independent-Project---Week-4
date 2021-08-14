@@ -25,11 +25,13 @@ I am working as a data scientist for an electric car-sharing service company. I 
 4. Use a browser to open the ** Project Management with JIRA HTML EXPORT ** file
 
 # This repository consists of
-Python google colab notebook Data Report (Google Docs Document)
-link to the dataset used 
-1. dataset description   https://drive.google.com/a/moringaschool.com/file/d/13DXF2CFWQLeYxxHFekng8HJnH_jtbfpN/view?usp=sharing 
-2. dataset used          http://bit.ly/autolib_dataset
-3. Project Management with JIRA HTML EXPORT
+1. Python google colab notebook Data Report (Google Docs Document)
+2. link to the dataset used 
+        - dataset description   https://drive.google.com/a/moringaschool.com/file/d/13DXF2CFWQLeYxxHFekng8HJnH_jtbfpN/view?usp=sharing 
+        - dataset used          http://bit.ly/autolib_dataset
+3. Project Management with JIRA CSV FILE EXPORT
+4. Data Report (Google Docs)
+ 
 
 # Known Bugs / Errors
 
